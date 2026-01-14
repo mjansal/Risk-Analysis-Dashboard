@@ -38,8 +38,6 @@ A través de \*\*R y la librería `visNetwork`\*\*, el sistema procesa estos dat
 
 \- \*\*Semaforización de Riesgo:\*\* Los nodos cambian de color automáticamente según la peor situación crediticia informada en el sistema (Verde: Situación 1-2, Rojo: Situación 3+).
 
-\- \*\*Reporte Ejecutivo:\*\* El archivo HTML incluye una tabla automática con el Top 5 de deudores por exposición total.
-
 
 
 \## 📂 Estructura del Repositorio
